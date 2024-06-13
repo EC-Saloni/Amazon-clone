@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+h2{
+    color:rgb(6, 6, 59);
+    font-size: 30px;
+}
+#logo{
+    color:rgb(6, 6, 59);
+    font-size: 50px;
+} 
+#navbar{
+padding-top: 5px;
+height: 100px;
+}
+a{
+    margin-right: 60px;
+}
+.inner1{
+    background-color: white;
+    margin-top: 250px;
+    text-align: center;
+    color:rgb(6, 6, 59);
+    border: 1px solid black;
+    height: 50px;
+    padding-top: 15px;
+}
+.id1{
+    background-image: url("hotel.jpg");
+    background-size:cover ;
+    display: inline-block;
+    height: 250px;
+    width: 400px;
+    margin-right: 20px;
+}
+.id2{
+    background-image: url("food2.jpg");
+    background-size:cover ;
+    display: inline-block;
+    height: 250px;
+    width: 400px;
+    margin-right: 20px;
+}
+.id3{
+    background-image: url("poolarea.jpg");
+    background-size:cover ;
+    display: inline-block;
+    height: 250px;
+    width: 400px;
+    margin-right: 20px;
+   
+}
+.id4{
+    background-image: url("waitingarea.jpg");
+    background-size:cover ;
+    display: inline-block;
+    height:250px;
+    width: 400px;
+    margin-right: 20px;
+   
+}
+.id5{
+    background-image: url("room1.jpg");
+    background-size:cover ;
+    display: inline-block;
+    height: 250px;
+    width: 400px;
+    margin-right: 20px;
+   
+}
+.id6{
+    background-image: url("room2.jpg");
+    background-size:cover ;
+    display: inline-block;
+    height: 250px;
+    width: 400px;
+    margin-right: 20px;
+    
+}
+footer{
+    color:rgb(6, 6, 59);
+    text-align: center;
+}
